@@ -92,8 +92,8 @@
   <section class="section" id="menu">
     <h2>Our Menu</h2>
     <div class="menu-item">
-      <h3>Mini Tiffin (Lunch)</h3>
-      <p>Undhiyu, Puri, Rice, Kadhi, Shrikhand</p>
+      <h3>Mini Tiffin - 8 Oz with 2 Roti (Dinner)</h3>
+      <p>Undhiyu, Puri, Rice, Kadhi</p>
       <strong>$12.99</strong>
     </div>
     <div class="menu-item">

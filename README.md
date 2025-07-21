@@ -1,4 +1,4 @@
-# annapurna-ghost-kitchen
+# Annapurna-ghost-kitchen
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,7 +118,7 @@
   <section class="section" id="contact">
     <h2>Contact Us</h2>
     <p><strong>Phone:</strong> 614-940-3239<br>
-       <strong>Email:</strong> orders@annapurnacaterers.com<br>
+    
        <strong>Pickup Location:</strong> [Insert Address Here]</p>
   </section>
 
